@@ -80,6 +80,3 @@ if st.button("Ask"):
 
 # https://shotstack.io/docs/api/#tocs_edit
 # https://shotstack.io/docs/api/#shotstack-edit,https://python.langchain.com/en/latest/modules/agents.html,https://python.langchain.com/en/latest/modules/agents/getting_started.html,https://python.langchain.com/en/latest/modules/agents/tools.html,
-
-
-# OPENAI_API_KEY = "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"
